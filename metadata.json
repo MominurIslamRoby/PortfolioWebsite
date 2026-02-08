@@ -1,0 +1,8 @@
+{
+  "name": "Mominur Islam Roby Portfolio",
+  "description": "A high-end, modern personal portfolio for a Computer Science Engineer and AI/ML enthusiast, featuring Framer Motion animations and professional tech aesthetics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
